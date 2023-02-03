@@ -1,0 +1,3557 @@
+{
+  "components" : [ {
+    "hash" : "0100bd3cae1a5debf9af",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-autotag-core-runtime",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "1.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-autotag-core-runtime@1.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-autotag-core-runtime-1.2.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-autotag-core-runtime-1.2.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-autotag-core-runtime-1.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1468658159000,
+    "componentDisplayName" : "org.apache.tiles : tiles-autotag-core-runtime : 1.2"
+  }, {
+    "hash" : "01f71d0545540ad4bd7b",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-core",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-core@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-core-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-core-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-core-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769588000,
+    "componentDisplayName" : "org.apache.tiles : tiles-core : 3.0.8"
+  }, {
+    "hash" : "03d5f48f10bbe4eb7bd8",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "classmate",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml",
+        "version" : "1.3.4"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml/classmate@1.3.4?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/classmate-1.3.4.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/classmate-1.3.4.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/classmate-1.3.4.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1504993681000,
+    "componentDisplayName" : "com.fasterxml : classmate : 1.3.4"
+  }, {
+    "hash" : "06a9bde44749334e9ef8",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-request-jsp",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "1.0.7"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-request-jsp@1.0.7?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-request-jsp-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-request-jsp-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-request-jsp-1.0.7.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1504518931000,
+    "componentDisplayName" : "org.apache.tiles : tiles-request-jsp : 1.0.7"
+  }, {
+    "hash" : "07aaa49086a64cd9dab9",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "velocity-tools-generic",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.velocity.tools",
+        "version" : "3.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.velocity.tools/velocity-tools-generic@3.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/velocity-tools-generic-3.1.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/velocity-tools-generic-3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/velocity-tools-generic-3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/velocity-tools-generic-3.1.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/velocity-tools-generic-3.1.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/velocity-tools-generic-3.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1614457239000,
+    "componentDisplayName" : "org.apache.velocity.tools : velocity-tools-generic : 3.1"
+  }, {
+    "hash" : "138753498a27322b35ee",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-ognl",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-ognl@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-ognl-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-ognl-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-ognl-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769852000,
+    "componentDisplayName" : "org.apache.tiles : tiles-ognl : 3.0.8"
+  }, {
+    "hash" : "13c2b30926bca0429c70",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "stax2-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.codehaus.woodstox",
+        "version" : "4.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.codehaus.woodstox/stax2-api@4.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/stax2-api-4.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/stax2-api-4.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/stax2-api-4.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "BSD-UNSPECIFIED",
+        "licenseName" : "BSD"
+      }, {
+        "licenseId" : "BSD-2-Clause",
+        "licenseName" : "BSD-2-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "See-License-Clause",
+        "licenseName" : "See-License-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1552449818000,
+    "componentDisplayName" : "org.codehaus.woodstox : stax2-api : 4.2"
+  }, {
+    "hash" : "1600925b1ec7c7a3403c",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "woodstox-core",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml.woodstox",
+        "version" : "6.2.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml.woodstox/woodstox-core@6.2.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/woodstox-core-6.2.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/woodstox-core-6.2.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/woodstox-core-6.2.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "See-License-Clause",
+        "licenseName" : "See-License-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1589430264000,
+    "componentDisplayName" : "com.fasterxml.woodstox : woodstox-core : 6.2.1"
+  }, {
+    "hash" : "19d4e90b43059058f6e0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "xpp3_min",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "xpp3",
+        "version" : "1.1.4c"
+      }
+    },
+    "packageUrl" : "pkg:maven/xpp3/xpp3_min@1.1.4c?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/xpp3_min-1.1.4c.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/xpp3_min-1.1.4c.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/xpp3_min-1.1.4c.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "XPP-1.1.1",
+        "licenseName" : "XPP-1.1.1"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "XPP-1.2",
+        "licenseName" : "XPP-1.2"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1196230685000,
+    "componentDisplayName" : "xpp3 : xpp3_min : 1.1.4c"
+  }, {
+    "hash" : "1fe575549a9fb8b0024c",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "xstream",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.thoughtworks.xstream",
+        "version" : "1.4.15"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.thoughtworks.xstream/xstream@1.4.15?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/xstream-1.4.15.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/xstream-1.4.15.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/xstream-1.4.15.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "BSD-UNSPECIFIED",
+        "licenseName" : "BSD"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ {
+        "reference" : "CVE-2021-21345",
+        "source" : "cve",
+        "severity" : 8.8,
+        "description" : "xstream - Remote Code Execution",
+        "metadata" : {
+          "explanation" : "This issue has undergone the Sonatype Fast-Track process. For more information, please see the [Sonatype Knowledge Base Guide](https://guides.sonatype.com/iqserver/technical-guides/sonatype-vuln-data/#when-is-vulnerability-data-available).",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "http://x-stream.github.io/changes.html",
+            "type" : "Project"
+          }, {
+            "link" : "http://x-stream.github.io/CVE-2021-21345.html",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "sonatypeCwe" : [ "CWE-94" ],
+        "implicationPaths" : {
+          "( , 1.4.16)" : [ [ "xstream-1.4.15.jar" ] ]
+        }
+      }, {
+        "reference" : "CVE-2021-21346",
+        "source" : "cve",
+        "severity" : 8.8,
+        "description" : "xstream - Code Injection",
+        "metadata" : {
+          "explanation" : "The `xstream` package is vulnerable to Code Injection. The `setupSecurity` method in `XStream.class` does not properly restrict certain types in the processed input stream. A remote attacker can exploit this to replace or inject malicious objects into the processed input stream during unmarshalling, resulting in arbitrary code execution.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue. Furthermore, as a good general security practice and possible workaround if using XStream version 1.4.7 and above, we recommend setting up an allow list, as opposed to the default deny list, per the [developer's instructions](https://x-stream.github.io/security.html#framework).\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "configuration", "data" ],
+          "links" : [ {
+            "link" : "https://groups.google.com/g/xstream-notifications/c/86i0duH5XpU",
+            "type" : "Third Party"
+          }, {
+            "link" : "https://x-stream.github.io/CVE-2021-21346.html",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "sonatypeCwe" : [ "CWE-94" ],
+        "implicationPaths" : {
+          "[1.4.7, 1.4.16)" : [ [ "xstream-1.4.15.jar", "com/thoughtworks/xstream/XStream.class" ] ]
+        }
+      }, {
+        "reference" : "CVE-2021-21350",
+        "source" : "cve",
+        "severity" : 7.3,
+        "description" : "xstream - Arbitrary Code Execution",
+        "metadata" : {
+          "explanation" : "This issue has undergone the Sonatype Fast-Track process. For more information, please see the [Sonatype Knowledge Base Guide](https://guides.sonatype.com/iqserver/technical-guides/sonatype-vuln-data/#when-is-vulnerability-data-available).",
+          "detection" : "The application is vulnerable by using this component.",
+          "vulnerabilityCategories" : [ "configuration", "data" ],
+          "links" : [ {
+            "link" : "http://x-stream.github.io/changes.html",
+            "type" : "Project"
+          }, {
+            "link" : "http://x-stream.github.io/CVE-2021-21350.html",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:L",
+        "sonatypeCwe" : [ "CWE-94" ],
+        "implicationPaths" : {
+          "( , 1.4.16)" : [ [ "xstream-1.4.15.jar" ] ]
+        }
+      } ]
+    },
+    "catalogDate" : 1607815396000,
+    "componentDisplayName" : "com.thoughtworks.xstream : xstream : 1.4.15"
+  }, {
+    "hash" : "2337afdb06134a12fc02",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "json-simple",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.github.cliftonlabs",
+        "version" : "3.0.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.github.cliftonlabs/json-simple@3.0.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/json-simple-3.0.2.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/json-simple-3.0.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/json-simple-3.0.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/json-simple-3.0.2.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/json-simple-3.0.2.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/json-simple-3.0.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1516823861000,
+    "componentDisplayName" : "com.github.cliftonlabs : json-simple : 3.0.2"
+  }, {
+    "hash" : "27cb46a1f8d108e4383d",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "spring-aop",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.springframework",
+        "version" : "4.3.29.RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.springframework/spring-aop@4.3.29.RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/spring-aop-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/spring-aop-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/spring-aop-4.3.29.RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600169450000,
+    "componentDisplayName" : "org.springframework : spring-aop : 4.3.29.RELEASE"
+  }, {
+    "hash" : "2b8e230d2ab644e4ecaa",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "xmlpull",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "xmlpull",
+        "version" : "1.1.3.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/xmlpull/xmlpull@1.1.3.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/xmlpull-1.1.3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/xmlpull-1.1.3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/xmlpull-1.1.3.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "LGPL-2.1",
+        "licenseName" : "LGPL-2.1"
+      }, {
+        "licenseId" : "LGPL-3.0",
+        "licenseName" : "LGPL-3.0"
+      }, {
+        "licenseId" : "PUBLIC-DOMAIN",
+        "licenseName" : "Public Domain"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Sources",
+        "licenseName" : "No Sources"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1472850458000,
+    "componentDisplayName" : "xmlpull : xmlpull : 1.1.3.1"
+  }, {
+    "hash" : "2d00cb648984176c3072",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-freemarker",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-freemarker@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-freemarker-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-freemarker-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-freemarker-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769721000,
+    "componentDisplayName" : "org.apache.tiles : tiles-freemarker : 3.0.8"
+  }, {
+    "hash" : "2deaf276442a3b960335",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "org.directwebremoting dwr",
+        "qualifier" : "",
+        "version" : "3.0.2-RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:a-name/org.directwebremoting%20dwr@3.0.2-RELEASE",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/dwr-3.0.2-RELEASE.jar/org/directwebremoting/dwr-bayeux.js", "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/dwr-3.0.2-RELEASE.jar/org/directwebremoting/engine.js", "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/dwr-3.0.2-RELEASE.jar/org/directwebremoting/ui/servlet/util.js", "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/dwr-3.0.2-RELEASE.jar/org/directwebremoting/webwork/DWRActionUtil.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      }, {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1489789966000,
+    "componentDisplayName" : "org.directwebremoting dwr 3.0.2-RELEASE"
+  }, {
+    "hash" : "31baabe32ce5edf8b625",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "spring-web",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.springframework",
+        "version" : "4.3.29.RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.springframework/spring-web@4.3.29.RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/spring-web-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/spring-web-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/spring-web-4.3.29.RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ {
+        "reference" : "CVE-2016-1000027",
+        "source" : "cve",
+        "severity" : 9.8,
+        "description" : "Pivotal Spring Framework 4.1.4 suffers from a potential remote code execution (RCE) issue if used for Java deserialization of untrusted data. Depending on how the library is implemented within a product, this issue may or not occur, and authentication may be required.",
+        "metadata" : {
+          "explanation" : "The `org.springframework:spring-web` package is vulnerable to deserialization of untrusted data leading to Remote Code Execution (RCE). The `readRemoteInvocation` method in `HttpInvokerServiceExporter.class` does not properly verify or restrict untrusted objects prior to deserializing them. An attacker can exploit this vulnerability by sending malicious requests containing crafted objects, which when deserialized, execute arbitrary code on the vulnerable system.\n\nNOTE: This vulnerability is related to a previously reported deserialization vulnerability (CVE-2011-2894) within the package, impacting a different class.",
+          "detection" : "The application is vulnerable by using this component under specific scenarios as listed out in the advisory.\n\nReference: [https://www.tenable.com/security/research/tra-2016-20](https://www.tenable.com/security/research/tra-2016-20)",
+          "recommendation" : "There is no non-vulnerable upgrade path for this component/package. We recommend investigating alternative components or a potential mitigating control.\n\nA warning has been provided in the official [Javadocs](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/remoting/httpinvoker/HttpInvokerServiceExporter.html) of the `HttpInvokerServiceExporter` class:\n\n\"WARNING: Be aware of vulnerabilities due to unsafe Java deserialization: Manipulated input streams could lead to unwanted code execution on the server during the deserialization step. As a consequence, do not expose HTTP invoker endpoints to untrusted clients but rather just between your own services. In general, we strongly recommend any other message format (e.g. JSON) instead.\"\n\nThe developer's general advice also states:\n\"Do not use Java serialization for external endpoints, in particular not for unauthorized ones. HTTP invoker is not a well-kept secret (or an \"oversight\") but rather the typical case of how a Spring application would expose serialization endpoints to begin with... he has a point that we should make this case all across our documentation, including the javadoc. But I don't really see a CVE case here, just a documentation improvement.\n\nPivoltal will enhance their documentation for the 4.2.6 and 3.2.17 releases.\"\n\nReference: [https://www.tenable.com/security/research/tra-2016-20](https://www.tenable.com/security/research/tra-2016-20)",
+          "vulnerabilityCategories" : [ "functional", "data" ],
+          "links" : [ {
+            "link" : "https://www.tenable.com/security/research/tra-2016-20",
+            "type" : "Third Party"
+          }, {
+            "link" : "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2016-1000027",
+            "type" : "Third Party"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+        "cwe" : [ "CWE-502" ],
+        "sonatypeCwe" : [ "CWE-94" ],
+        "implicationPaths" : {
+          "[2.5.1,)" : [ [ "spring-web-4.3.29.RELEASE.jar", "org/springframework/remoting/httpinvoker/HttpInvokerServiceExporter.class" ] ]
+        }
+      }, {
+        "reference" : "CVE-2020-5398",
+        "source" : "cve",
+        "severity" : 7.5,
+        "description" : "In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a \"Content-Disposition\" header in the response where the filename attribute is derived from user supplied input.",
+        "metadata" : {
+          "explanation" : "The Spring Framework `spring-web` package is vulnerable to a Reflected File Download (RFD) attack. The `toString()` method in the `ContentDisposition` class fails to escape double-quote (`\"`) characters from user-supplied filenames when generating the header content. A remote attacker can exploit this vulnerability by crafting a resource URL that leverages a double-quote character in order to inject content into the downloaded response. The attacker can then entice a victim into navigating to the aforementioned URL. This will cause the victim to download the malicious resource which can result in execution of malicious system commands.\n\n*Advisory Deviation Notice*: The Sonatype security research team discovered that this vulnerability was introduced in version 3.0.2.RELEASE and not 5.0.x as stated in the advisory.",
+          "vulnerabilityCategories" : [ "functional", "data" ],
+          "links" : [ {
+            "link" : "https://github.com/spring-projects/spring-framework/issues/24220",
+            "type" : "Project"
+          }, {
+            "link" : "https://pivotal.io/security/cve-2020-5398",
+            "type" : "Project"
+          } ]
+        },
+        "componentMetadata" : {
+          "detection" : "The application is vulnerable by using this component if it sets a`ContentDisposition` response header, with an `inline` or `attachment` type and a `filename` that is derived from user input, via the provided `setContentDispositionFormData()`, `set()`, `put()`, or similar methods from the `HttpHeaders` class.",
+          "recommendation" : "In order to mitigate this vulnerability, we recommend upgrading to a version of this component that is not vulnerable to this specific issue, as well as removing any instances of `\"Content-Disposition\"` response headers that are added manually via the methods mentioned in the \"Detection\" section above. These headers should instead be built by the `ContentDisposition` class, which sanitizes the `filename` parameter appropriately in fixed versions."
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:H/I:H/A:H",
+        "cwe" : [ "CWE-494" ],
+        "sonatypeCwe" : [ "CWE-494" ],
+        "implicationPaths" : {
+          "[3.0.2.RELEASE, 5.0.0.M3)" : [ [ "spring-web-4.3.29.RELEASE.jar", "org/springframework/http/HttpHeaders.class" ] ]
+        }
+      } ]
+    },
+    "catalogDate" : 1600169449000,
+    "componentDisplayName" : "org.springframework : spring-web : 4.3.29.RELEASE"
+  }, {
+    "hash" : "33298de8da86f92f8ccd",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jackson-annotations",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml.jackson.core",
+        "version" : "2.10.5"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.10.5?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jackson-annotations-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jackson-annotations-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jackson-annotations-2.10.5.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1595295223000,
+    "componentDisplayName" : "com.fasterxml.jackson.core : jackson-annotations : 2.10.5"
+  }, {
+    "hash" : "363b3a551db5c20c7872",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "spring-core",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.springframework",
+        "version" : "4.3.29.RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.springframework/spring-core@4.3.29.RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/spring-core-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/spring-core-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/spring-core-4.3.29.RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600169453000,
+    "componentDisplayName" : "org.springframework : spring-core : 4.3.29.RELEASE"
+  }, {
+    "hash" : "3789d00e859632e6c620",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jboss-logging",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.jboss.logging",
+        "version" : "3.3.2.Final"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.jboss.logging/jboss-logging@3.3.2.Final?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/jboss-logging-3.3.2.Final.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1518643417000,
+    "componentDisplayName" : "org.jboss.logging : jboss-logging : 3.3.2.Final"
+  }, {
+    "hash" : "3b3fd5901f4304021074",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "dwr",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.directwebremoting",
+        "version" : "3.0.2-RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.directwebremoting/dwr@3.0.2-RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/dwr-3.0.2-RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/dwr-3.0.2-RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/dwr-3.0.2-RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      }, {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1481512965000,
+    "componentDisplayName" : "org.directwebremoting : dwr : 3.0.2-RELEASE"
+  }, {
+    "hash" : "4630afefbb43939c7394",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "asm-analysis",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.ow2.asm",
+        "version" : "9.0"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.ow2.asm/asm-analysis@9.0?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/asm-analysis-9.0.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/asm-analysis-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/asm-analysis-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/asm-analysis-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/asm-analysis-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/asm-analysis-9.0.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600711706000,
+    "componentDisplayName" : "org.ow2.asm : asm-analysis : 9.0"
+  }, {
+    "hash" : "48c9a0f167899119dc46",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "spring-expression",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.springframework",
+        "version" : "4.3.29.RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.springframework/spring-expression@4.3.29.RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/spring-expression-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/spring-expression-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/spring-expression-4.3.29.RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600169437000,
+    "componentDisplayName" : "org.springframework : spring-expression : 4.3.29.RELEASE"
+  }, {
+    "hash" : "4bfc12adfe4842bf07b6",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-logging",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "commons-logging",
+        "version" : "1.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/commons-logging/commons-logging@1.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-logging-1.2.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-logging-1.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-logging-1.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-logging-1.2.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-logging-1.2.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-logging-1.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1404583945000,
+    "componentDisplayName" : "commons-logging : commons-logging : 1.2"
+  }, {
+    "hash" : "4cb3b08c96553b0f4595",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "sitemesh",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "opensymphony",
+        "version" : "2.4.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/opensymphony/sitemesh@2.4.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/sitemesh-2.4.2.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/sitemesh-2.4.2.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/sitemesh-2.4.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Sources",
+        "licenseName" : "No Sources"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1240667223000,
+    "componentDisplayName" : "opensymphony : sitemesh : 2.4.2"
+  }, {
+    "hash" : "4e857439fc4fe974d212",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "log4j-core",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.logging.log4j",
+        "version" : "2.13.3"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.logging.log4j/log4j-core@2.13.3?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/log4j-core-2.13.3.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/log4j-core-2.13.3.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/log4j-core-2.13.3.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/log4j-core-2.13.3.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/log4j-core-2.13.3.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/log4j-core-2.13.3.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1589137770000,
+    "componentDisplayName" : "org.apache.logging.log4j : log4j-core : 2.13.3"
+  }, {
+    "hash" : "4f5e0b40a5087390897b",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "org.apache.struts struts2-parent",
+        "qualifier" : "",
+        "version" : "2.5.13"
+      }
+    },
+    "packageUrl" : "pkg:a-name/org.apache.struts%20struts2-parent@2.5.13",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/org/apache/struts2/interceptor/debugging/webconsole.js", "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/org/apache/struts2/static/utils.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/org/apache/struts2/interceptor/debugging/webconsole.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/org/apache/struts2/static/utils.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/org/apache/struts2/interceptor/debugging/webconsole.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/org/apache/struts2/static/utils.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/org/apache/struts2/interceptor/debugging/webconsole.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/org/apache/struts2/static/utils.js", "struts-master/core/src/main/resources/org/apache/struts2/interceptor/debugging/webconsole.js", "struts-master/core/src/main/resources/org/apache/struts2/static/utils.js", "struts-master/core/target/classes/org/apache/struts2/interceptor/debugging/webconsole.js", "struts-master/core/target/classes/org/apache/struts2/static/utils.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1503486678000,
+    "componentDisplayName" : "org.apache.struts struts2-parent 2.5.13"
+  }, {
+    "hash" : "52e3e61c6f54504cf02b",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "tamejs",
+        "qualifier" : "",
+        "version" : "0.3.0"
+      }
+    },
+    "packageUrl" : "pkg:a-name/tamejs@0.3.0",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Src/struts-master/apps/showcase/src/main/webapp/js/prettify.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/apps/showcase/target/struts2-showcase/js/prettify.js", "struts-master/apps/showcase/src/main/webapp/js/prettify.js", "struts-master/apps/showcase/target/struts2-showcase.war/js/prettify.js", "struts-master/apps/showcase/target/struts2-showcase/js/prettify.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "UNSPECIFIED",
+        "licenseName" : "Not Provided"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1311347154577,
+    "componentDisplayName" : "tamejs 0.3.0"
+  }, {
+    "hash" : "562a587face36ec7eff2",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jakarta.activation-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "jakarta.activation",
+        "version" : "1.2.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/jakarta.activation/jakarta.activation-api@1.2.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jakarta.activation-api-1.2.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jakarta.activation-api-1.2.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jakarta.activation-api-1.2.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "EDL-1.0",
+        "licenseName" : "EDL-1.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1542752191000,
+    "componentDisplayName" : "jakarta.activation : jakarta.activation-api : 1.2.1"
+  }, {
+    "hash" : "56c7ed54e70912ef6628",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-servlet",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-servlet@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-servlet-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-servlet-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-servlet-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769656000,
+    "componentDisplayName" : "org.apache.tiles : tiles-servlet : 3.0.8"
+  }, {
+    "hash" : "5a34a3a9ac44f362f35d",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "asm-commons",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.ow2.asm",
+        "version" : "9.0"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.ow2.asm/asm-commons@9.0?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/asm-commons-9.0.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/asm-commons-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/asm-commons-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/asm-commons-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/asm-commons-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/asm-commons-9.0.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600711709000,
+    "componentDisplayName" : "org.ow2.asm : asm-commons : 9.0"
+  }, {
+    "hash" : "5eacc6522521f7eacb08",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jakarta.validation-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "jakarta.validation",
+        "version" : "2.0.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/jakarta.validation/jakarta.validation-api@2.0.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/jakarta.validation-api-2.0.2.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/jakarta.validation-api-2.0.2.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/jakarta.validation-api-2.0.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1565473573000,
+    "componentDisplayName" : "jakarta.validation : jakarta.validation-api : 2.0.2"
+  }, {
+    "hash" : "6c787d8ca10522420392",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "org.apache.struts struts2-core",
+        "qualifier" : "",
+        "version" : "2.5"
+      }
+    },
+    "packageUrl" : "pkg:a-name/org.apache.struts%20struts2-core@2.5",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/org/apache/struts2/static/domTT.js", "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/org/apache/struts2/static/inputtransferselect.js", "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/org/apache/struts2/static/optiontransferselect.js", "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/template/css_xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar/template/xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/org/apache/struts2/static/domTT.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/org/apache/struts2/static/inputtransferselect.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/org/apache/struts2/static/optiontransferselect.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/template/css_xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar/template/xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/org/apache/struts2/static/domTT.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/org/apache/struts2/static/inputtransferselect.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/org/apache/struts2/static/optiontransferselect.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/template/css_xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/src/main/resources/template/xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/org/apache/struts2/static/domTT.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/org/apache/struts2/static/inputtransferselect.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/org/apache/struts2/static/optiontransferselect.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/template/css_xhtml/validation.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/core/target/classes/template/xhtml/validation.js", "struts-master/core/src/main/resources/org/apache/struts2/static/domTT.js", "struts-master/core/src/main/resources/org/apache/struts2/static/inputtransferselect.js", "struts-master/core/src/main/resources/org/apache/struts2/static/optiontransferselect.js", "struts-master/core/src/main/resources/template/css_xhtml/validation.js", "struts-master/core/src/main/resources/template/xhtml/validation.js", "struts-master/core/target/classes/org/apache/struts2/static/domTT.js", "struts-master/core/target/classes/org/apache/struts2/static/inputtransferselect.js", "struts-master/core/target/classes/org/apache/struts2/static/optiontransferselect.js", "struts-master/core/target/classes/template/css_xhtml/validation.js", "struts-master/core/target/classes/template/xhtml/validation.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      }, {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1462455681000,
+    "componentDisplayName" : "org.apache.struts struts2-core 2.5"
+  }, {
+    "hash" : "70b396cce5516f7069d1",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-template",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-template@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-template-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-template-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-template-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769623000,
+    "componentDisplayName" : "org.apache.tiles : tiles-template : 3.0.8"
+  }, {
+    "hash" : "73a8001e7a54a255eef0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-digester",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "commons-digester",
+        "version" : "2.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/commons-digester/commons-digester@2.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-digester-2.1.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-digester-2.1.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-digester-2.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1285326138000,
+    "componentDisplayName" : "commons-digester : commons-digester : 2.1"
+  }, {
+    "hash" : "7465a65e4b3821a97859",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-jsp",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-jsp@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-jsp-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-jsp-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-jsp-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769689000,
+    "componentDisplayName" : "org.apache.tiles : tiles-jsp : 3.0.8"
+  }, {
+    "hash" : "7710ee9f1aa2210d4019",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "hibernate-validator",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.hibernate.validator",
+        "version" : "6.1.2.Final"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.hibernate.validator/hibernate-validator@6.1.2.Final?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/hibernate-validator-6.1.2.Final.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/hibernate-validator-6.1.2.Final.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/hibernate-validator-6.1.2.Final.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "PUBLIC-DOMAIN",
+        "licenseName" : "Public Domain"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ {
+        "reference" : "CVE-2020-10693",
+        "source" : "cve",
+        "severity" : 5.3,
+        "description" : "A flaw was found in Hibernate Validator version 6.1.2.Final. A bug in the message interpolation processor enables invalid EL expressions to be evaluated as if they were valid. This flaw allows attackers to bypass input sanitation (escaping, stripping) controls that developers may have put in place when handling user-controlled data in error messages.",
+        "metadata" : {
+          "explanation" : "The `hibernate-validator` package is vulnerable to Improper Input Validation. The `handleEscapeCharacter()` method in the `ELState` class fails to account for EL expressions that begin with `$\\` during the interpolation process. A remote attacker can exploit this vulnerability to execute Java EL expressions by triggering an affected constraint violation with an expression that leverages the aforementioned characters, such as `$\\A{1+1}`.",
+          "detection" : "The application is vulnerable by using this component if it includes user-supplied input in constraint violation messages without the use of expression variables or proper sanitization.\n\nReference: [https://in.relation.to/2020/05/07/hibernate-validator-615-6020-released/](https://in.relation.to/2020/05/07/hibernate-validator-615-6020-released/)",
+          "vulnerabilityCategories" : [ "functional", "data" ],
+          "links" : [ {
+            "link" : "https://hibernate.atlassian.net/browse/HV-1774",
+            "type" : "Project"
+          }, {
+            "link" : "https://in.relation.to/2020/05/07/hibernate-validator-615-6020-released/",
+            "type" : "Project"
+          }, {
+            "link" : "https://github.com/hibernate/hibernate-validator/pull/1094",
+            "type" : "Project"
+          }, {
+            "link" : "https://github.com/hibernate/hibernate-validator/pull/1093",
+            "type" : "Project"
+          }, {
+            "link" : "https://github.com/hibernate/hibernate-validator/pull/1092",
+            "type" : "Project"
+          } ]
+        },
+        "componentMetadata" : {
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control."
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+        "cwe" : [ "CWE-20" ],
+        "sonatypeCwe" : [ "CWE-20" ],
+        "implicationPaths" : {
+          "( , 6.0.20.Final)" : [ [ "hibernate-validator-6.1.2.Final.jar", "org/hibernate/validator/internal/engine/messageinterpolation/parser/ELState.class" ] ]
+        }
+      } ]
+    },
+    "catalogDate" : 1580469821000,
+    "componentDisplayName" : "org.hibernate.validator : hibernate-validator : 6.1.2.Final"
+  }, {
+    "hash" : "77762f4e3d693d816bfe",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "velocity-tools-view",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.velocity.tools",
+        "version" : "3.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.velocity.tools/velocity-tools-view@3.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/velocity-tools-view-3.1.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/velocity-tools-view-3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/velocity-tools-view-3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/velocity-tools-view-3.1.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/velocity-tools-view-3.1.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/velocity-tools-view-3.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1614457246000,
+    "componentDisplayName" : "org.apache.velocity.tools : velocity-tools-view : 3.1"
+  }, {
+    "hash" : "7799d7c22063ccb69b91",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "jquery",
+        "qualifier" : "",
+        "version" : "1.12.4"
+      }
+    },
+    "packageUrl" : "pkg:a-name/jquery@1.12.4",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1472467875/struts2-osgi-admin-bundle-2.6-SNAPSHOT-sources.jar/static/js/jquery-1.12.4.min.js", "fortify-sonatype5713402731989595765.zip/Libs/java/-1472467875/struts2-osgi-admin-bundle-2.6-SNAPSHOT.jar/static/js/jquery-1.12.4.min.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/bundles/admin/src/main/resources/static/js/jquery-1.12.4.min.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/bundles/admin/target/classes/static/js/jquery-1.12.4.min.js", "struts-master/bundles/admin/src/main/resources/static/js/jquery-1.12.4.min.js", "struts-master/bundles/admin/target/classes/static/js/jquery-1.12.4.min.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "MIT",
+        "licenseName" : "MIT"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ {
+        "reference" : "CVE-2020-11023",
+        "source" : "cve",
+        "severity" : 6.1,
+        "description" : "In jQuery versions greater than or equal to 1.0.3 and before 3.5.0, passing HTML containing <option> elements from untrusted sources - even after sanitizing it - to one of jQuery's DOM manipulation methods (i.e. .html(), .append(), and others) may execute untrusted code. This problem is patched in jQuery 3.5.0.",
+        "metadata" : {
+          "explanation" : "The `jquery` package is vulnerable to Cross-Site Scripting (XSS). Multiple jQuery files as listed below, improperly sanitize HTML input containing `<option>` tags. An attacker can exploit this vulnerability by passing crafted input to jQuery's DOM manipulation methods (e.g. `.html()`, `.append()`, etc.) to execute XSS attacks.\n\n\n*Vulnerable File(s) and Function(s)*:\n\npackage/dist/jquery.slim.js\n\npackage/dist/jquery.js\n\npackage/src/manipulation/wrapMap.js\n\npackage/src/manipulation.js\n\npackage/src/core.js\n\npackage/src/core.js",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\nAlternatively, a workaround is provided by [jQuery](https://github.com/jquery/jquery/security/advisories/GHSA-jpcq-cgw6-v4j6):\n\"To workaround this issue without upgrading, use DOMPurify with its SAFE_FOR_JQUERY option to sanitize the HTML string before passing it to a jQuery method.\"\n\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/advisories/GHSA-jpcq-cgw6-v4j6",
+            "type" : "Third Party"
+          }, {
+            "link" : "https://jquery.com/upgrade-guide/3.5/",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cwe" : [ "CWE-79" ],
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[1.0.1, 4.2.0)" : [ [ "jquery.1.12.4" ] ]
+        }
+      }, {
+        "reference" : "sonatype-2014-0026",
+        "source" : "sonatype",
+        "severity" : 6.5,
+        "description" : "jQuery -  Cross Site Scripting (XSS)",
+        "metadata" : {
+          "explanation" : "The `jQuery` package is vulnerable to Cross-Site Scripting (XSS). The `parseHTML()` function in the `parseHTML.js`, `jquery.js` files allow JavaScript to be executed immediately when it's embedded within the event attributes. An attacker can exploit this vulnerability by injecting malicious JavaScript containing events handlers which, when rendered, results in the execution of arbitrary script.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/jquery/jquery/pull/1505",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:H/A:N",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:H/A:N",
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[1.12.4 ,2.1.0)" : [ [ "jquery.1.12.4" ] ]
+        }
+      }, {
+        "reference" : "sonatype-2019-0115",
+        "source" : "sonatype",
+        "severity" : 9.8,
+        "description" : "jquery - [CVE-2019-11358] Prototype Pollution",
+        "metadata" : {
+          "explanation" : "The `jquery` package is vulnerable to Prototype Pollution. The `jQuery.extend` and `jQuery.fn.extend` functions defined in many files allow an untrusted object to extend `Object.prototype`. An attacker can modify and add prototype properties to JavaScript objects and can potentially leverage those changes to crash the application or execute remote code.\n\nNOTE: This vulnerability has been assigned CVE-2019-11358.\n\n*Advisory Deviation Notice:* The Sonatype security research team has assessed the CVSS score for this vulnerability to be 9.8 given the nature of prototype pollution and the high potential for damage in this particular case, as opposed to a score of 6.1 reported by [NVD](https://nvd.nist.gov/vuln/detail/CVE-2019-11358).",
+          "detection" : "The application is vulnerable by using this component. Certain versions of jQuery (for example 3.4.1 present in NuGet downloads), even if fixed, may continue to report this vulnerability because of the bundled `jquery-...vsdoc.js` variant still containing vulnerable code. In such cases, you are vulnerable only if the `...-vsdoc.js` file is being used directly in your production application.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/cbeust/testng/issues/2150",
+            "type" : "Project"
+          }, {
+            "link" : "https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "( , 3.4.0)" : [ [ "jquery.1.12.4" ] ]
+        }
+      }, {
+        "reference" : "sonatype-2020-0187",
+        "source" : "sonatype",
+        "severity" : 6.1,
+        "description" : "jQuery - Cross-Site Scripting (XSS) [ CVE-2020-11022 ]",
+        "metadata" : {
+          "explanation" : "The `jquery` package is vulnerable to Cross-Site Scripting (XSS). The `htmlPrefilter` function in `manipulation.js` replaces non-XHTML-compliant tags with compliant tags. A remote attacker can exploit this behavior with an ostensibly benign injection that the replacement functionality will turn into malicious live JavaScript that will execute in a victim's browser context.\n\nNOTE: This vulnerability has been assigned CVE-2020-11022.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue. If an older version of jQuery must be used, the jQuery team recommends manually removing the regular expression string replacement in the `htmlPrefilter` function returning the HTML code as is, so that the function looks as follows:\n```\njQuery.htmlPrefilter = function( html ) {\n\treturn html;\n};\n```\n\nFor XHTML-compliant behavior: Use the latest version of the [jQuery migrate plugin](https://github.com/jquery/jquery-migrate) and call `jQuery.UNSAFE_restoreLegacyHtmlPrefilter()` in addition to sanitizing the user input using the [dompurify](https://github.com/cure53/dompurify) library. Do not use the `SAFE_FOR_JQUERY` option when using `dompurify`. See the [upgrade guide](https://jquery.com/upgrade-guide/3.5/) for more detailed information\n\nRef: [https://github.com/advisories/GHSA-gxr4-xjj5-5px2](https://github.com/advisories/GHSA-gxr4-xjj5-5px2)\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.\n",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/jquery/jquery/pull/4642",
+            "type" : "Project"
+          }, {
+            "link" : "https://github.com/jquery/jquery/security/advisories/GHSA-gxr4-xjj5-5px2",
+            "type" : "Project"
+          }, {
+            "link" : "https://blog.jquery.com/2020/04/10/jquery-3-5-0-released/",
+            "type" : "Project"
+          }, {
+            "link" : "https://jquery.com/upgrade-guide/3.5/",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[1.11.0, 3.5.0)" : [ [ "jquery.1.12.4" ] ]
+        }
+      } ]
+    },
+    "catalogDate" : 1463764747375,
+    "componentDisplayName" : "jquery 1.12.4"
+  }, {
+    "hash" : "7ff756c3af1fe95cb3cd",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jackson-databind",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml.jackson.core",
+        "version" : "2.10.5.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.10.5.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jackson-databind-2.10.5.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jackson-databind-2.10.5.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jackson-databind-2.10.5.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606880869000,
+    "componentDisplayName" : "com.fasterxml.jackson.core : jackson-databind : 2.10.5.1"
+  }, {
+    "hash" : "815893df5f31da2ece40",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-io",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "commons-io",
+        "version" : "2.6"
+      }
+    },
+    "packageUrl" : "pkg:maven/commons-io/commons-io@2.6?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-io-2.6.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-io-2.6.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-io-2.6.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-io-2.6.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-io-2.6.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-io-2.6.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ {
+        "reference" : "sonatype-2018-0705",
+        "source" : "sonatype",
+        "severity" : 7.8,
+        "description" : "commons-io - Path Traversal",
+        "metadata" : {
+          "explanation" : "The `commons-io` package is vulnerable to Path Traversal. The `getPrefixLength` method in `FilenameUtils.class` improperly verifies the hostname value received from user input before processing client requests. An attacker could abuse this behavior by crafting a special payload containing unexpected characters that could allow the access to unintended resources.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/apache/commons-io/pull/52",
+            "type" : "Project"
+          }, {
+            "link" : "https://issues.apache.org/jira/browse/IO-556",
+            "type" : "Project"
+          }, {
+            "link" : "https://issues.apache.org/jira/browse/IO-559",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+        "sonatypeCwe" : [ "CWE-22" ],
+        "implicationPaths" : {
+          "[1.1 , 2.7-SNAPSHOT)" : [ [ "commons-io-2.6.jar", "org/apache/commons/io/FilenameUtils.class" ] ]
+        }
+      } ]
+    },
+    "catalogDate" : 1508061650000,
+    "componentDisplayName" : "commons-io : commons-io : 2.6"
+  }, {
+    "hash" : "86d70d335c7821178f62",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "freemarker",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.freemarker",
+        "version" : "2.3.30"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.freemarker/freemarker@2.3.30?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/freemarker-2.3.30.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/freemarker-2.3.30.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/freemarker-2.3.30.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/freemarker-2.3.30.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/freemarker-2.3.30.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/freemarker-2.3.30.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1581879477000,
+    "componentDisplayName" : "org.freemarker : freemarker : 2.3.30"
+  }, {
+    "hash" : "879a6bde4c0537a25504",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-text",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.commons",
+        "version" : "1.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.commons/commons-text@1.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-text-1.8.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-text-1.8.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-text-1.8.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-text-1.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-text-1.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-text-1.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1567195024000,
+    "componentDisplayName" : "org.apache.commons : commons-text : 1.8"
+  }, {
+    "hash" : "8a38a72732a6feda61a9",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "log4j-jcl",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.logging.log4j",
+        "version" : "2.13.3"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.logging.log4j/log4j-jcl@2.13.3?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/log4j-jcl-2.13.3.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/log4j-jcl-2.13.3.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/log4j-jcl-2.13.3.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1589137846000,
+    "componentDisplayName" : "org.apache.logging.log4j : log4j-jcl : 2.13.3"
+  }, {
+    "hash" : "8ad72fe39fa8c91eaaf1",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-collections",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "commons-collections",
+        "version" : "3.2.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/commons-collections/commons-collections@3.2.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-collections-3.2.2.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-collections-3.2.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-collections-3.2.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-collections-3.2.2.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-collections-3.2.2.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-collections-3.2.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1471601401000,
+    "componentDisplayName" : "commons-collections : commons-collections : 3.2.2"
+  }, {
+    "hash" : "8d49996a4338670764d7",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jakarta.xml.bind-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "jakarta.xml.bind",
+        "version" : "2.3.2"
+      }
+    },
+    "packageUrl" : "pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.2?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jakarta.xml.bind-api-2.3.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "EDL-1.0",
+        "licenseName" : "EDL-1.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1545924667000,
+    "componentDisplayName" : "jakarta.xml.bind : jakarta.xml.bind-api : 2.3.2"
+  }, {
+    "hash" : "8e948a7cf148e4abf973",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "ognl",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "ognl",
+        "version" : "3.2.16"
+      }
+    },
+    "packageUrl" : "pkg:maven/ognl/ognl@3.2.16?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/ognl-3.2.16.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/ognl-3.2.16.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/ognl-3.2.16.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/ognl-3.2.16.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/ognl-3.2.16.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/ognl-3.2.16.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1605340558000,
+    "componentDisplayName" : "ognl : ognl : 3.2.16"
+  }, {
+    "hash" : "921b466d6a14a8edbe25",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "javassist",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.javassist",
+        "version" : "3.24.1-GA"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.javassist/javassist@3.24.1-GA?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/javassist-3.24.1-GA.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/javassist-3.24.1-GA.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/javassist-3.24.1-GA.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/javassist-3.24.1-GA.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/javassist-3.24.1-GA.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/javassist-3.24.1-GA.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-1.0",
+        "licenseName" : "Apache-1.0"
+      }, {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      }, {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "LGPL-2.1",
+        "licenseName" : "LGPL-2.1"
+      }, {
+        "licenseId" : "MPL-1.1",
+        "licenseName" : "MPL-1.1"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "LGPL-2.1",
+        "licenseName" : "LGPL-2.1"
+      }, {
+        "licenseId" : "LGPL-3.0",
+        "licenseName" : "LGPL-3.0"
+      }, {
+        "licenseId" : "MPL-1.1",
+        "licenseName" : "MPL-1.1"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1544462167000,
+    "componentDisplayName" : "org.javassist : javassist : 3.24.1-GA"
+  }, {
+    "hash" : "93bec18bf4ce9b670154",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "velocity-tools-view-jsp",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.velocity.tools",
+        "version" : "3.1"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.velocity.tools/velocity-tools-view-jsp@3.1?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/velocity-tools-view-jsp-3.1.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/velocity-tools-view-jsp-3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/velocity-tools-view-jsp-3.1.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/velocity-tools-view-jsp-3.1.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/velocity-tools-view-jsp-3.1.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/velocity-tools-view-jsp-3.1.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1614457251000,
+    "componentDisplayName" : "org.apache.velocity.tools : velocity-tools-view-jsp : 3.1"
+  }, {
+    "hash" : "9df939f25c556b0c7efe",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "asm-tree",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.ow2.asm",
+        "version" : "9.0"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.ow2.asm/asm-tree@9.0?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/asm-tree-9.0.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/asm-tree-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/asm-tree-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/asm-tree-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/asm-tree-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/asm-tree-9.0.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600711715000,
+    "componentDisplayName" : "org.ow2.asm : asm-tree : 9.0"
+  }, {
+    "hash" : "a156035db751ac097ebc",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "spring-context",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.springframework",
+        "version" : "4.3.29.RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.springframework/spring-context@4.3.29.RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/spring-context-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/spring-context-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/spring-context-4.3.29.RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600169448000,
+    "componentDisplayName" : "org.springframework : spring-context : 4.3.29.RELEASE"
+  }, {
+    "hash" : "a3c4f741b1cf5ce578b8",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-api@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-api-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-api-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-api-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769548000,
+    "componentDisplayName" : "org.apache.tiles : tiles-api : 3.0.8"
+  }, {
+    "hash" : "ab1648fe1dd6f1e5c2ec",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jcl-over-slf4j",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.slf4j",
+        "version" : "1.7.6"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.slf4j/jcl-over-slf4j@1.7.6?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/jcl-over-slf4j-1.7.6.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "MIT",
+        "licenseName" : "MIT"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1462889056000,
+    "componentDisplayName" : "org.slf4j : jcl-over-slf4j : 1.7.6"
+  }, {
+    "hash" : "af582ff60bc567c42d93",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "asm",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.ow2.asm",
+        "version" : "9.0"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.ow2.asm/asm@9.0?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/asm-9.0.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/asm-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/asm-9.0.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/asm-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/asm-9.0.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/asm-9.0.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "BSD-3-Clause",
+        "licenseName" : "BSD-3-Clause"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600711702000,
+    "componentDisplayName" : "org.ow2.asm : asm : 9.0"
+  }, {
+    "hash" : "b5a4b6d16ab13e34a88f",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "slf4j-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.slf4j",
+        "version" : "1.7.30"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.slf4j/slf4j-api@1.7.30?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/slf4j-api-1.7.30.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/slf4j-api-1.7.30.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/slf4j-api-1.7.30.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/slf4j-api-1.7.30.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/slf4j-api-1.7.30.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/slf4j-api-1.7.30.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "MIT",
+        "licenseName" : "MIT"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "MIT",
+        "licenseName" : "MIT"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1576530216000,
+    "componentDisplayName" : "org.slf4j : slf4j-api : 1.7.30"
+  }, {
+    "hash" : "c649a9be6df263c888a2",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-request-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "1.0.7"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-request-api@1.0.7?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-request-api-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-request-api-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-request-api-1.0.7.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1504518690000,
+    "componentDisplayName" : "org.apache.tiles : tiles-request-api : 1.0.7"
+  }, {
+    "hash" : "cb855558e6271b1b32e7",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "validation-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "javax.validation",
+        "version" : "2.0.1.Final"
+      }
+    },
+    "packageUrl" : "pkg:maven/javax.validation/validation-api@2.0.1.Final?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/validation-api-2.0.1.Final.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/validation-api-2.0.1.Final.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/validation-api-2.0.1.Final.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1513700620000,
+    "componentDisplayName" : "javax.validation : validation-api : 2.0.1.Final"
+  }, {
+    "hash" : "cf75182100f643bf32e0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-request-freemarker",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "1.0.7"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-request-freemarker@1.0.7?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-request-freemarker-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-request-freemarker-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-request-freemarker-1.0.7.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1504518975000,
+    "componentDisplayName" : "org.apache.tiles : tiles-request-freemarker : 1.0.7"
+  }, {
+    "hash" : "d006d8201c7d9cee6c67",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-el",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "3.0.8"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-el@3.0.8?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-el-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-el-3.0.8.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-el-3.0.8.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1506769784000,
+    "componentDisplayName" : "org.apache.tiles : tiles-el : 3.0.8"
+  }, {
+    "hash" : "d52b9abcd97f38c81342",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-beanutils",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "commons-beanutils",
+        "version" : "1.9.4"
+      }
+    },
+    "packageUrl" : "pkg:maven/commons-beanutils/commons-beanutils@1.9.4?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-beanutils-1.9.4.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-beanutils-1.9.4.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-beanutils-1.9.4.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-beanutils-1.9.4.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-beanutils-1.9.4.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-beanutils-1.9.4.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1564352213000,
+    "componentDisplayName" : "commons-beanutils : commons-beanutils : 1.9.4"
+  }, {
+    "hash" : "db2ba27938de7f2d478a",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jackson-core",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml.jackson.core",
+        "version" : "2.10.5"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.10.5?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jackson-core-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jackson-core-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jackson-core-2.10.5.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1595295762000,
+    "componentDisplayName" : "com.fasterxml.jackson.core : jackson-core : 2.10.5"
+  }, {
+    "hash" : "e155460aaf5b464062a0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-lang3",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.commons",
+        "version" : "3.10"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.commons/commons-lang3@3.10?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-lang3-3.10.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-lang3-3.10.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-lang3-3.10.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-lang3-3.10.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-lang3-3.10.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-lang3-3.10.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1584970775000,
+    "componentDisplayName" : "org.apache.commons : commons-lang3 : 3.10"
+  }, {
+    "hash" : "e2133b723d0e42be7488",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "velocity-engine-core",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.velocity",
+        "version" : "2.3"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.velocity/velocity-engine-core@2.3?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/velocity-engine-core-2.3.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/velocity-engine-core-2.3.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/velocity-engine-core-2.3.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/velocity-engine-core-2.3.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/velocity-engine-core-2.3.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/velocity-engine-core-2.3.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1614773760000,
+    "componentDisplayName" : "org.apache.velocity : velocity-engine-core : 2.3"
+  }, {
+    "hash" : "e895214b45a9672e0e2d",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "org.apache.struts struts2-osgi-admin-bundle",
+        "qualifier" : "",
+        "version" : "2.5.25"
+      }
+    },
+    "packageUrl" : "pkg:a-name/org.apache.struts%20struts2-osgi-admin-bundle@2.5.25",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1472467875/struts2-osgi-admin-bundle-2.6-SNAPSHOT-sources.jar/static/js/shell.js", "fortify-sonatype5713402731989595765.zip/Libs/java/-1472467875/struts2-osgi-admin-bundle-2.6-SNAPSHOT.jar/static/js/shell.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/bundles/admin/src/main/resources/static/js/shell.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/bundles/admin/target/classes/static/js/shell.js", "struts-master/bundles/admin/src/main/resources/static/js/shell.js", "struts-master/bundles/admin/target/classes/static/js/shell.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      }, {
+        "licenseId" : "MIT",
+        "licenseName" : "MIT"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600343105000,
+    "componentDisplayName" : "org.apache.struts struts2-osgi-admin-bundle 2.5.25"
+  }, {
+    "hash" : "e956bf7af3e93dae1474",
+    "componentIdentifier" : {
+      "format" : "a-name",
+      "coordinates" : {
+        "name" : "org.webjars bootstrap",
+        "qualifier" : "",
+        "version" : "3.3.4"
+      }
+    },
+    "packageUrl" : "pkg:a-name/org.webjars%20bootstrap@3.3.4",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Src/struts-master/apps/showcase/src/main/webapp/js/bootstrap.min.js", "fortify-sonatype5713402731989595765.zip/Src/struts-master/apps/showcase/target/struts2-showcase/js/bootstrap.min.js", "struts-master/apps/showcase/src/main/webapp/js/bootstrap.min.js", "struts-master/apps/showcase/target/struts2-showcase.war/js/bootstrap.min.js", "struts-master/apps/showcase/target/struts2-showcase/js/bootstrap.min.js" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Not-Supported",
+        "licenseName" : "Not Supported"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ {
+        "reference" : "CVE-2018-14042",
+        "source" : "cve",
+        "severity" : 6.1,
+        "description" : "In Bootstrap before 4.1.2, XSS is possible in the data-container property of tooltip.",
+        "metadata" : {
+          "explanation" : "The `bootstrap` package is vulnerable to Cross-Site Scripting (XSS). The `show()` function in the `tooltip.js` file allows HTML and scripts in the `data-container` tooltip attribute values in the DOM elements without proper sanitization. This can be misused to cause XSS.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/twbs/bootstrap/issues/26628",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cwe" : [ "CWE-79" ],
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[2.3.1, 3.4.0)" : [ [ "org.webjars bootstrap.3.3.4" ] ]
+        }
+      }, {
+        "reference" : "CVE-2018-20677",
+        "source" : "cve",
+        "severity" : 6.1,
+        "description" : "In Bootstrap before 3.4.0, XSS is possible in the affix configuration target property.",
+        "metadata" : {
+          "explanation" : "The `bootstrap` package is vulnerable to Cross-Site Scripting (XSS). The `Affix()` function in the `affix.js` file allows scripts/HTML data via the `target` attribute that is stored in DOM elements without properly being sanitized. A remote attacker can exploit this by injecting malicious HTML/JavaScript code in the `target` attribute of `affix` and entice a victim to click on it, triggering the XSS.\n\n*Advisory Deviation Notice:* The Sonatype security research team has discovered that the vulnerability is present from version 3.2.0 until 3.4.0, and not all versions before 3.4.0 as the advisory states.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/twbs/bootstrap/issues/27045",
+            "type" : "Project"
+          }, {
+            "link" : "https://github.com/twbs/bootstrap/pull/27047",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cwe" : [ "CWE-79" ],
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[3.2.0, 3.4.0)" : [ [ "org.webjars bootstrap.3.3.4" ] ]
+        }
+      }, {
+        "reference" : "CVE-2019-8331",
+        "source" : "cve",
+        "severity" : 6.1,
+        "description" : "In Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute.",
+        "metadata" : {
+          "explanation" : "The `bootstrap` package is vulnerable to Cross-Site Scripting (XSS). The `setElementContent` method in the `tooltip.js` file accepts JavaScript within the input parameters without properly sanitizing the data in the elements that are being rendered on the webpage. This could lead to Cross-Site Scripting (XSS).\n\n*Advisory Deviation Notice:* The Sonatype security research team discovered that the root cause of the vulnerability is in 4.0.0-alpha.2, not in 4.3.0 as the advisory states.\n",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://blog.getbootstrap.com/2019/02/13/bootstrap-4-3-1-and-3-4-1/",
+            "type" : "Third Party"
+          }, {
+            "link" : "https://github.com/twbs/bootstrap/pull/28236",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cvssVectorSource" : "cve_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cwe" : [ "CWE-79" ],
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[2.3.1,3.4.0)" : [ [ "org.webjars bootstrap.3.3.4" ] ]
+        }
+      }, {
+        "reference" : "sonatype-2016-0129",
+        "source" : "sonatype",
+        "severity" : 5.4,
+        "description" : "bootstrap - Cross Site Scripting (XSS) in data-target attribute",
+        "metadata" : {
+          "explanation" : "The `bootstrap` package is vulnerable to Cross-Site Scripting (XSS). The `data-target` attribute in `bootstrap.js` interprets encoded HTML entities as standard HTML entities when `data-target` is based on user supplied input. A remote attacker can exploit this vulnerability by crafting input containing malicious JavaScript, and injecting it into a `data-target` attribute, which results in Cross-Site Scripting (XSS).\n\nNOTE: This vulnerability is for the 3.x versions.  The 4.x versions are covered on CVE-2018-14041.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "There is no non vulnerable version of this package. We recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/twbs/bootstrap/issues/20184",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:N",
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[3.3.2-1, 3.4.0)" : [ [ "org.webjars bootstrap.3.3.4" ] ]
+        }
+      }, {
+        "reference" : "sonatype-2018-0607",
+        "source" : "sonatype",
+        "severity" : 6.1,
+        "description" : "bootstrap - Cross-Site Scripting (XSS)",
+        "metadata" : {
+          "explanation" : "The `bootstrap` package is vulnerable to Cross-Site Scripting (XSS). The `show` and `_transitionComplete` functions in `tab.js` and `bootstrap.js` (along with its variants) do not properly sanitize the values prior to assigning them to elements. An attacker can exploit this flaw to cause XSS attacks by injecting malicious characters in the values of these elements.",
+          "detection" : "The application is vulnerable by using this component.",
+          "recommendation" : "We recommend upgrading to a version of this component that is not vulnerable to this specific issue.\n\nNote: If this component is included as a bundled/transitive dependency of another component, there may not be an upgrade path. In this instance, we recommend contacting the maintainers who included the vulnerable package. Alternatively, we recommend investigating alternative components or a potential mitigating control.",
+          "vulnerabilityCategories" : [ "data" ],
+          "links" : [ {
+            "link" : "https://github.com/twbs/bootstrap/pull/26460",
+            "type" : "Project"
+          } ]
+        },
+        "cvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "cvssVectorSource" : "sonatype_cvss_3",
+        "sonatypeCvssVectorString" : "CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+        "sonatypeCwe" : [ "CWE-79" ],
+        "implicationPaths" : {
+          "[3.3.2-1 , 3.4.0)" : [ [ "org.webjars bootstrap.3.3.4" ] ]
+        }
+      } ]
+    },
+    "catalogDate" : 1426522054000,
+    "componentDisplayName" : "org.webjars bootstrap 3.3.4"
+  }, {
+    "hash" : "e9643898198abe38ecd3",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "spring-beans",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.springframework",
+        "version" : "4.3.29.RELEASE"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.springframework/spring-beans@4.3.29.RELEASE?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/spring-beans-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/spring-beans-4.3.29.RELEASE.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/spring-beans-4.3.29.RELEASE.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600169428000,
+    "componentDisplayName" : "org.springframework : spring-beans : 4.3.29.RELEASE"
+  }, {
+    "hash" : "e9b9e3cda2a489b3292e",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "tiles-request-servlet",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.tiles",
+        "version" : "1.0.7"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.tiles/tiles-request-servlet@1.0.7?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/tiles-request-servlet-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/tiles-request-servlet-1.0.7.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/tiles-request-servlet-1.0.7.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1504518740000,
+    "componentDisplayName" : "org.apache.tiles : tiles-request-servlet : 1.0.7"
+  }, {
+    "hash" : "eb44e5de7ba75ef1b6e2",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jackson-dataformat-xml",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml.jackson.dataformat",
+        "version" : "2.10.5"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.10.5?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jackson-dataformat-xml-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jackson-dataformat-xml-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jackson-dataformat-xml-2.10.5.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1595302812000,
+    "componentDisplayName" : "com.fasterxml.jackson.dataformat : jackson-dataformat-xml : 2.10.5"
+  }, {
+    "hash" : "ec1508160b93d274b1ad",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "log4j-api",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.logging.log4j",
+        "version" : "2.13.3"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.logging.log4j/log4j-api@2.13.3?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/log4j-api-2.13.3.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/log4j-api-2.13.3.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/log4j-api-2.13.3.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/log4j-api-2.13.3.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/log4j-api-2.13.3.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/log4j-api-2.13.3.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1589137703000,
+    "componentDisplayName" : "org.apache.logging.log4j : log4j-api : 2.13.3"
+  }, {
+    "hash" : "f438b5eb66d15cbffca1",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "jackson-module-jaxb-annotations",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "com.fasterxml.jackson.module",
+        "version" : "2.10.5"
+      }
+    },
+    "packageUrl" : "pkg:maven/com.fasterxml.jackson.module/jackson-module-jaxb-annotations@2.10.5?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/jackson-module-jaxb-annotations-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/jackson-module-jaxb-annotations-2.10.5.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/jackson-module-jaxb-annotations-2.10.5.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "No-Source-License",
+        "licenseName" : "No Source License"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1595300672000,
+    "componentDisplayName" : "com.fasterxml.jackson.module : jackson-module-jaxb-annotations : 2.10.5"
+  }, {
+    "hash" : "f95188e3d372e20e7328",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "commons-fileupload",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "commons-fileupload",
+        "version" : "1.4"
+      }
+    },
+    "packageUrl" : "pkg:maven/commons-fileupload/commons-fileupload@1.4?type=jar",
+    "matchState" : "exact",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/commons-fileupload-1.4.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/commons-fileupload-1.4.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/commons-fileupload-1.4.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/commons-fileupload-1.4.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/commons-fileupload-1.4.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/commons-fileupload-1.4.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1545635228000,
+    "componentDisplayName" : "commons-fileupload : commons-fileupload : 1.4"
+  }, {
+    "hash" : "54828a0dd0955f872e10",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-embeddedjsp-plugin",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.22"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-embeddedjsp-plugin@2.5.22?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1626139042/struts2-embeddedjsp-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/embeddedjsp/target/struts2-embeddedjsp-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1574018865000,
+    "componentDisplayName" : "org.apache.struts : struts2-embeddedjsp-plugin : jar : sources : 2.5.22"
+  }, {
+    "hash" : "0228dabfcf3bd8349c40",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-showcase",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.26"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-showcase@2.5.26?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-631114398/struts2-showcase-sources.jar", "struts-master/apps/showcase/target/struts2-showcase-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606322430000,
+    "componentDisplayName" : "org.apache.struts : struts2-showcase : jar : sources : 2.5.26"
+  }, {
+    "hash" : "91ab550a7e5e5460a7dc",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-embeddedjsp-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.25"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-embeddedjsp-plugin@2.5.25?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1626139042/struts2-embeddedjsp-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/embeddedjsp/target/struts2-embeddedjsp-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1600343027000,
+    "componentDisplayName" : "org.apache.struts : struts2-embeddedjsp-plugin : 2.5.25"
+  }, {
+    "hash" : "ef1e152a045950a6efe0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-tiles-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.16"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-tiles-plugin@2.5.16?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-tiles-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/715141206/struts2-tiles-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-tiles-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-tiles-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/tiles/target/struts2-tiles-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1519992905000,
+    "componentDisplayName" : "org.apache.struts : struts2-tiles-plugin : 2.5.16"
+  }, {
+    "hash" : "260b2467e48425174f40",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-gxp-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.14"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-gxp-plugin@2.5.14?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1495005956/struts2-gxp-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/gxp/target/struts2-gxp-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1510642536000,
+    "componentDisplayName" : "org.apache.struts : struts2-gxp-plugin : 2.5.14"
+  }, {
+    "hash" : "2806f9ba21f48de7cd8c",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-javatemplates-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.20"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-javatemplates-plugin@2.5.20?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-2052188124/struts2-javatemplates-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/javatemplates/target/struts2-javatemplates-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1547021577000,
+    "componentDisplayName" : "org.apache.struts : struts2-javatemplates-plugin : 2.5.20"
+  }, {
+    "hash" : "55fb599e8455f15563ba",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-tiles-plugin",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.17"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-tiles-plugin@2.5.17?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/715141206/struts2-tiles-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/tiles/target/struts2-tiles-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1534223399000,
+    "componentDisplayName" : "org.apache.struts : struts2-tiles-plugin : jar : sources : 2.5.17"
+  }, {
+    "hash" : "0f8bbb81ea04f721b9ff",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-bean-validation-plugin",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.26"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-bean-validation-plugin@2.5.26?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1748485095/struts2-bean-validation-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/bean-validation/target/struts2-bean-validation-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606322419000,
+    "componentDisplayName" : "org.apache.struts : struts2-bean-validation-plugin : jar : sources : 2.5.26"
+  }, {
+    "hash" : "8a5b490067318aeb8d4d",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-bean-validation-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.17"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-bean-validation-plugin@2.5.17?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-bean-validation-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/1748485095/struts2-bean-validation-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-bean-validation-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-bean-validation-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/bean-validation/target/struts2-bean-validation-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1534224226000,
+    "componentDisplayName" : "org.apache.struts : struts2-bean-validation-plugin : 2.5.17"
+  }, {
+    "hash" : "87692bb854fed55c026e",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-convention-plugin",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.22"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-convention-plugin@2.5.22?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-490850670/struts2-convention-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/convention/target/struts2-convention-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1574018654000,
+    "componentDisplayName" : "org.apache.struts : struts2-convention-plugin : jar : sources : 2.5.22"
+  }, {
+    "hash" : "7715de5e0f61d836136c",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-convention-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.26"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-convention-plugin@2.5.26?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-490850670/struts2-convention-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-convention-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-convention-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/struts2-convention-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/struts2-convention-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-convention-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-convention-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/convention/target/struts2-convention-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606322393000,
+    "componentDisplayName" : "org.apache.struts : struts2-convention-plugin : 2.5.26"
+  }, {
+    "hash" : "4040b6bd5e6ac32d02e0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-json-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.26"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-json-plugin@2.5.26?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-json-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/178895165/struts2-json-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-json-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-json-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/json/target/struts2-json-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606322408000,
+    "componentDisplayName" : "org.apache.struts : struts2-json-plugin : 2.5.26"
+  }, {
+    "hash" : "64ae37c066db8efe83b9",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-plexus-plugin",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.26"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-plexus-plugin@2.5.26?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/899896310/struts2-plexus-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/plexus/target/struts2-plexus-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      }, {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606322498000,
+    "componentDisplayName" : "org.apache.struts : struts2-plexus-plugin : jar : sources : 2.5.26"
+  }, {
+    "hash" : "e3dfe0370f3a301b89c0",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-rest-showcase",
+        "classifier" : "sources",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.26"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-rest-showcase@2.5.26?classifier=sources&type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/4580075/struts2-rest-showcase-sources.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase-sources.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1606322442000,
+    "componentDisplayName" : "org.apache.struts : struts2-rest-showcase : jar : sources : 2.5.26"
+  }, {
+    "hash" : "18ebdf0f28a7d43f814d",
+    "componentIdentifier" : {
+      "format" : "maven",
+      "coordinates" : {
+        "artifactId" : "struts2-plexus-plugin",
+        "classifier" : "",
+        "extension" : "jar",
+        "groupId" : "org.apache.struts",
+        "version" : "2.5.22"
+      }
+    },
+    "packageUrl" : "pkg:maven/org.apache.struts/struts2-plexus-plugin@2.5.22?type=jar",
+    "matchState" : "similar",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/899896310/struts2-plexus-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/plexus/target/struts2-plexus-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : {
+      "declaredLicenses" : [ {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ],
+      "observedLicenses" : [ {
+        "licenseId" : "Apache-1.1",
+        "licenseName" : "Apache-1.1"
+      }, {
+        "licenseId" : "Apache-2.0",
+        "licenseName" : "Apache-2.0"
+      } ]
+    },
+    "securityData" : {
+      "securityIssues" : [ ]
+    },
+    "catalogDate" : 1574019025000,
+    "componentDisplayName" : "org.apache.struts : struts2-plexus-plugin : 2.5.22"
+  }, {
+    "hash" : "8cc7b00f7104f214d805",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "2ebc8fc39a6e11471ef0",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/2015055558/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-config-browser-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/config-browser/target/struts2-config-browser-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "8d78caeaa2c91ba5b6e9",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-core-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-core-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/struts2-core-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/struts2-core-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-core-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-core-2.6-SNAPSHOT.jar", "struts-master/core/target/struts2-core-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "e181a90c178b4b8ef49f",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/1724829830/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-velocity-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/velocity/target/struts2-velocity-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "1d23f404bda30db359f1",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/371673553/struts2-rest-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/743073331/struts2-rest-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war/WEB-INF/lib/struts2-rest-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/rest-showcase/target/struts2-rest-showcase/WEB-INF/lib/struts2-rest-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/rest/target/struts2-rest-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "125f0977b20a2609f824",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/371673553/struts2-rest-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/rest/target/struts2-rest-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "5b4b00e9ea6be6eb15b0",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1922322959/struts2-sitemesh-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-sitemesh-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-sitemesh-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-sitemesh-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/sitemesh/target/struts2-sitemesh-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "a8834f4d227aba907fab",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1987008671/struts2-async-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-async-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-async-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-async-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/async/target/struts2-async-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "61f9a3099031cd0b86de",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-spring-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/1928440694/struts2-spring-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-spring-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-spring-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/spring/target/struts2-spring-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "e9238c162898ba98b9eb",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-706134105/struts2-dwr-plugin-2.6-SNAPSHOT.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/92978524/struts2-dwr-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase.war/WEB-INF/lib/struts2-dwr-plugin-2.6-SNAPSHOT.jar", "struts-master/apps/showcase/target/struts2-showcase/WEB-INF/lib/struts2-dwr-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/dwr/target/struts2-dwr-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "831a58bc2dedde01f0ce",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1344842129/struts2-pell-multipart-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/pell-multipart/target/struts2-pell-multipart-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "4ac1432223bf12e42a6f",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1344842129/struts2-pell-multipart-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/pell-multipart/target/struts2-pell-multipart-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "5621c5b304fd5dc5dddc",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1472467875/struts2-osgi-admin-bundle-2.6-SNAPSHOT.jar", "struts-master/bundles/admin/target/struts2-osgi-admin-bundle-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "2d56f6ad8eb83c0aff66",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1472467875/struts2-osgi-admin-bundle-2.6-SNAPSHOT-sources.jar", "struts-master/bundles/admin/target/struts2-osgi-admin-bundle-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "3e9d8a72b0783944b142",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1922322959/struts2-sitemesh-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/sitemesh/target/struts2-sitemesh-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "881b9d1bd2ba4ae1d99f",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1237010335/struts2-osgi-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/osgi/target/struts2-osgi-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "cfaed04994d1c7641fe7",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1237010335/struts2-osgi-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/osgi/target/struts2-osgi-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "2e13158654a26b172415",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1495005956/struts2-gxp-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/gxp/target/struts2-gxp-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "1034639c61cd5814ca3e",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-884992163/struts2-jfreechart-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/jfreechart/target/struts2-jfreechart-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "38c23d34eca9f2fe7a20",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-884992163/struts2-jfreechart-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/jfreechart/target/struts2-jfreechart-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "7b158e3608ebf02b5a1d",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1576839155/struts2-osgi-demo-bundle-2.6-SNAPSHOT-sources.jar", "struts-master/bundles/demo/target/struts2-osgi-demo-bundle-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "bcac7655aa201f924299",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1576839155/struts2-osgi-demo-bundle-2.6-SNAPSHOT.jar", "struts-master/bundles/demo/target/struts2-osgi-demo-bundle-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "2e89f13be4054b11e988",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1854216341/struts2-core-2.6-SNAPSHOT-sources.jar", "struts-master/core/target/struts2-core-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "9bc741cd0b4181ba547f",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1765995349/struts2-cdi-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/cdi/target/struts2-cdi-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "56d6e5e78fe9ac0cf46a",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1765995349/struts2-cdi-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/cdi/target/struts2-cdi-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "d3254dd71ffa9a70f072",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/178895165/struts2-json-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/json/target/struts2-json-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "e91248162791b115d2cd",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/92978524/struts2-dwr-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/dwr/target/struts2-dwr-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "1920dbf18593194af828",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1724829830/struts2-velocity-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/velocity/target/struts2-velocity-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "7d7f2a83ee379aec8eef",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/333046571/struts2-portlet-tiles-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/portlet-tiles/target/struts2-portlet-tiles-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "71f367d5b78c56d2c302",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/333046571/struts2-portlet-tiles-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/portlet-tiles/target/struts2-portlet-tiles-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "cdf63dd99033aaa5403e",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-1987008671/struts2-async-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/async/target/struts2-async-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "3aeb7558ecb940f25c6f",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/549596408/struts2-testng-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/testng/target/struts2-testng-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "19d6d8975c00c5c091b2",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/549596408/struts2-testng-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/testng/target/struts2-testng-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "28d7e54d3b4bf8b4e6f1",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-2023864541/struts2-portlet-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/portlet/target/struts2-portlet-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "e85364c1ca0149a9f478",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-2023864541/struts2-portlet-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/portlet/target/struts2-portlet-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "be05f5fc3d1c54ddd4ca",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-958362489/xwork-jar.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/865725175/xwork-jar.jar", "struts-master/core/src/test/resources/xwork-jar.jar", "struts-master/core/target/test-classes/xwork-jar.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "691ddf2dcf48db453213",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-958362489/xwork - jar.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/865725175/xwork - jar.jar", "struts-master/core/src/test/resources/xwork - jar.jar", "struts-master/core/target/test-classes/xwork - jar.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "a6fda78e9611057b5ddf",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1928440694/struts2-spring-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/spring/target/struts2-spring-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "d58ad81edcf55e298b58",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-2083139142/jsps.jar", "fortify-sonatype5713402731989595765.zip/Libs/java/411600928/jsps.jar", "struts-master/plugins/embeddedjsp/src/test/resources/jsps.jar", "struts-master/plugins/embeddedjsp/target/test-classes/jsps.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "cd7e9ecc20efc9faa8f2",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/2048018863/struts2-junit-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/junit/target/struts2-junit-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "fddebae339680b04c220",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/2048018863/struts2-junit-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/junit/target/struts2-junit-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "425504fe3e3b9bd8132a",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-2052188124/struts2-javatemplates-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/javatemplates/target/struts2-javatemplates-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "27df69fbb7c61883aeb3",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/2015055558/struts2-config-browser-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/config-browser/target/struts2-config-browser-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "52a420e92e266896c3d4",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1044599815/struts2-portlet-mocks-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/portlet-mocks/target/struts2-portlet-mocks-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "d81ac964a127aaf9ddc5",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/1044599815/struts2-portlet-mocks-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/portlet-mocks/target/struts2-portlet-mocks-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "f4ce700976a615ad257a",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/2129520543/struts2-jasperreports-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/jasperreports/target/struts2-jasperreports-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "caabf08462fdb289e494",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/2129520543/struts2-jasperreports-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/jasperreports/target/struts2-jasperreports-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "418bd23179239081b894",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-459536493/struts2-oval-plugin-2.6-SNAPSHOT-sources.jar", "struts-master/plugins/oval/target/struts2-oval-plugin-2.6-SNAPSHOT-sources.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "7088acfd9c17c51b6637",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "fortify-sonatype5713402731989595765.zip/Libs/java/-459536493/struts2-oval-plugin-2.6-SNAPSHOT.jar", "struts-master/plugins/oval/target/struts2-oval-plugin-2.6-SNAPSHOT.jar" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "2a80856d9b25b0aa1c8f",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "struts-master/core/src/test/resources/xwork-zip.zip", "struts-master/core/target/test-classes/xwork-zip.zip" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "6c9942354e32fa992bad",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "struts-master/core/src/test/resources/xwork - zip.zip", "struts-master/core/target/test-classes/xwork - zip.zip" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "397d027a3d21c18f96e7",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "struts-master/apps/rest-showcase/target/struts2-rest-showcase.war" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "4658f843cf1ec86d3e71",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "struts-master/apps/showcase/src/main/webapp/images/struts-gif.zip", "struts-master/apps/showcase/target/struts2-showcase.war/images/struts-gif.zip", "struts-master/apps/showcase/target/struts2-showcase/images/struts-gif.zip" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  }, {
+    "hash" : "c95eb86e394d78f48c5a",
+    "componentIdentifier" : null,
+    "packageUrl" : null,
+    "matchState" : "unknown",
+    "pathnames" : [ "struts-master/apps/showcase/target/struts2-showcase.war" ],
+    "licenseData" : null,
+    "securityData" : null,
+    "catalogDate" : null,
+    "componentDisplayName" : null
+  } ],
+  "matchSummary" : {
+    "totalComponentCount" : 139,
+    "knownComponentCount" : 85
+  }
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="/Users/halehnematollahy/Apps/struts-master/assembly/target/docs/"/>
+  <exec executable="wget">
+    <arg value="-erobots=off"/>
+    <arg value="-nH"/>
+    <arg value="-x"/>
+    <arg value="-nv"/>
+    <arg value="-E"/>
+    <arg value="-L"/>
+    <arg value="-np"/>
+    <arg value="--directory-prefix=/Users/halehnematollahy/Apps/struts-master/assembly/target/docs"/>
+    <arg value="--no-check-certificate"/>
+    <arg value="-r"/>
+    <arg value="-i"/>
+    <arg value="src/main/resources/docs-urls.txt"/>
+  </exec>
+</target>
+</project>
